@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/jesus/Escritorio/ClienteCM/cMCarRacing/build/intermediates/exploded-aar/ClienteCM/andEngine/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bda771c39c5e23686ab02d35159bc01204be3e10">
+        <dex dex="/home/jesus/Escritorio/ClienteCM/cMCarRacing/build/intermediates/pre-dexed/debug/classes-27ec4bb97e86d45bfb8059a92bd9557eb9d5d87f.jar" />
+    </item>
+    <item
+        jar="/home/jesus/Escritorio/CMCarRacingAndroidStudio-master/cMCarRacing/build/intermediates/exploded-aar/CMCarRacingAndroidStudio-master/andEngineTexturePackerExtension/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b7da91c545e4229249b1956f7184d1c4575b57a1">
+        <dex dex="/home/jesus/Escritorio/CMCarRacingAndroidStudio-master/cMCarRacing/build/intermediates/pre-dexed/debug/classes-b994a81c75c794bdb581657c73e50aa44f3321aa.jar" />
+    </item>
+    <item
+        jar="/home/jesus/Escritorio/CMCarRacingAndroidStudio-master/cMCarRacing/build/intermediates/exploded-aar/CMCarRacingAndroidStudio-master/andEnginePhysicsBox2DExtension/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a399639cbf42faa906199f42a41db44a966ead34">
+        <dex dex="/home/jesus/Escritorio/CMCarRacingAndroidStudio-master/cMCarRacing/build/intermediates/pre-dexed/debug/classes-8acf6394fc6d7c9b926ae5385ed6bf0207ae974a.jar" />
+    </item>
+    <item
+        jar="/home/jesus/Escritorio/CMCarRacingAndroidStudio-master/cMCarRacing/build/intermediates/exploded-aar/CMCarRacingAndroidStudio-master/andEngineMultiplayerExtension/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="10f4b052aa3a1c4bc0a8a4fc4efae7a413b93aa5">
+        <dex dex="/home/jesus/Escritorio/CMCarRacingAndroidStudio-master/cMCarRacing/build/intermediates/pre-dexed/debug/classes-29a15b9fb9ef4b8c5a67c33dc77626bfae3b83c8.jar" />
+    </item>
+    <item
+        jar="/home/jesus/Escritorio/ClienteCM/cMCarRacing/build/intermediates/exploded-aar/ClienteCM/andEngineTexturePackerExtension/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="70f2bd486a96b8abc9618a82cbf8580ded435951">
+        <dex dex="/home/jesus/Escritorio/ClienteCM/cMCarRacing/build/intermediates/pre-dexed/debug/classes-98a162c396f5d7dd3aa98fb7b5fe4313069e6f08.jar" />
+    </item>
+    <item
+        jar="/home/jesus/Escritorio/CMCarRacingAndroidStudio-master/cMCarRacing/build/intermediates/exploded-aar/CMCarRacingAndroidStudio-master/andEngine/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="77d8521155814d264d7704b527b4a7e62dd75193">
+        <dex dex="/home/jesus/Escritorio/CMCarRacingAndroidStudio-master/cMCarRacing/build/intermediates/pre-dexed/debug/classes-d129abbf2a320230921a01e96dcb329f5aab59b4.jar" />
+    </item>
+    <item
+        jar="/home/jesus/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/jesus/Escritorio/CMCarRacingAndroidStudio-master/cMCarRacing/build/intermediates/pre-dexed/debug/support-v4-19.1.0-52598717c155d80857acedae42fa4779d6afb2f5.jar" />
+    </item>
+    <item
+        jar="/home/jesus/Escritorio/ClienteCM/cMCarRacing/build/intermediates/exploded-aar/ClienteCM/andEngineMultiplayerExtension/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3231f05c7c7847051dccd9a4007484d578e5b3bb">
+        <dex dex="/home/jesus/Escritorio/ClienteCM/cMCarRacing/build/intermediates/pre-dexed/debug/classes-d691b4b7f479d5e8082d0f0c7d71b22428839a70.jar" />
+    </item>
+    <item
+        jar="/home/jesus/Escritorio/ClienteCM/cMCarRacing/build/intermediates/exploded-aar/ClienteCM/andEnginePhysicsBox2DExtension/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="487dcd7188357023895509cd231792f9471e7f6a">
+        <dex dex="/home/jesus/Escritorio/ClienteCM/cMCarRacing/build/intermediates/pre-dexed/debug/classes-bf57ca0c2ade9653cd323c9d1540e5ce2931f553.jar" />
+    </item>
+
+</items>
